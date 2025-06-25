@@ -10,8 +10,8 @@ This is a frontend application built with **React + TypeScript**, powered by **V
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/recipe-app.git
-   cd recipe-app
+   git clone https://github.com/your-username/recipe-app-appflame.git
+   cd recipe-app-appflame
 2. **Install dependencies:**
    ```bash
    npm i
